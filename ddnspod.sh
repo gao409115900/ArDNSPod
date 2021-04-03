@@ -11,7 +11,7 @@ arToken="12345,7676f344eaeaea9074c123451234512d"
 # you can have multiple arDdnsCheck blocks
 
 # IPv4:
-arDdnsCheck "test.org" "subdomain"
+arDdnsCheck "chenyu.shop" "subdomain"
 
 # IPv6:
-arDdnsCheck "test.org" "subdomain6" 6
+arDdnsCheck "chenyu.shop" "subdomain6" 6
